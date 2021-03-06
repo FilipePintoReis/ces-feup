@@ -11,7 +11,7 @@ This assignment consists in three different tasks:
 
 The links to the artifacts of each one of the deliveries are below.
 
-### 1st Delivery - Project description
+### 1st Delivery - [Project description](https://github.com/FilipePintoReis/vscode/wiki/Project-description)
 
 ### 2nd Delivery - Select and document 2 issues
 
@@ -19,3 +19,9 @@ The links to the artifacts of each one of the deliveries are below.
 
 
 ## Research Assignment
+// TODO
+
+**This work was developed by:**  
+Diana Mourão - up202002016  
+Diogo Xambre Gouveira - up202003081  
+Filipe Pinto dos Reis - up201506154  
