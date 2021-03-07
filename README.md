@@ -22,6 +22,6 @@ The links to the artifacts of each one of the deliveries are below.
 // TODO
 
 **This work was developed by:**  
-Diana Mourão - up202002016  
-Diogo Xambre Gouveira - up202003081  
+Diana Bárbara Mourão - up202002016  
+Diogo Xambre Gouveia - up202003081  
 Filipe Pinto dos Reis - up201506154  
