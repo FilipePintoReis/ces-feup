@@ -11,7 +11,7 @@ This assignment consists in three different tasks:
 
 The links to the artifacts of each one of the deliveries are below.
 
-### 1st Delivery - [Project description](https://github.com/FilipePintoReis/vscode/wiki/Project-description)
+### 1st Delivery - [Project description](https://github.com/FilipePintoReis/scrapy/wiki/Project-description)
 
 ### 2nd Delivery - Select and document 2 issues
 
