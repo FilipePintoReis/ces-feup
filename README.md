@@ -14,6 +14,8 @@ The links to the artifacts of each one of the deliveries are below.
 ### 1st Delivery - [Project description](https://github.com/FilipePintoReis/scrapy/wiki/Project-description)
 
 ### 2nd Delivery - Select and document 2 issues
+* [First Issue.](https://github.com/FilipePintoReis/scrapy/wiki/Issue-1)
+* [Second Issue.](https://github.com/FilipePintoReis/scrapy/wiki/Project-description)
 
 ### 3rd Delivery - Project Maintainability Status
 
