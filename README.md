@@ -15,7 +15,7 @@ The links to the artifacts of each one of the deliveries are below.
 
 ### 2nd Delivery - Select and document 2 issues
 * [First Issue.](https://github.com/FilipePintoReis/scrapy/wiki/Issue-1)
-* [Second Issue.](https://github.com/FilipePintoReis/scrapy/wiki/Project-description)
+* [Second Issue.](https://github.com/FilipePintoReis/scrapy/wiki/Issue-2)
 
 ### 3rd Delivery - Project Maintainability Status
 
@@ -24,6 +24,6 @@ The links to the artifacts of each one of the deliveries are below.
 // TODO
 
 **This work was developed by:**  
-Diana Bárbara Mourão - up202002016  
-Diogo Xambre Gouveia - up202003081  
 Filipe Pinto dos Reis - up201506154  
+Diana Bárbara Mourão - up202002016  
+Diogo Xambre Gouveia - up202003081 
