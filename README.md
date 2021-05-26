@@ -17,8 +17,7 @@ The links to the artifacts of each one of the deliveries are below.
 * [First Issue.](https://github.com/FilipePintoReis/scrapy/wiki/Issue-1)
 * [Second Issue.](https://github.com/FilipePintoReis/scrapy/wiki/Issue-2)
 
-### 3rd Delivery - Project Maintainability Status
-
+### 3rd Delivery - [Project Maintainability Status.](https://github.com/FilipePintoReis/scrapy/wiki/Project-Maintainability-Status)
 
 ## Research Assignment
 // TODO
